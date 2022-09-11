@@ -1,0 +1,30 @@
+------------Heading------------------
+title - this cafe runs on love, laughter and lots of coffee!
+h1 text - introducing the all new Cappuccino
+
+--------About us--------
+use lorem here
+
+---------Features(why visit Us?)--------
+1 - Customer Service
+- We privide customer service to all our customers and we treat em with all due respect
+2 - Cleanliness
+- No restauraunt is safe to eat if it's not clean! 24/7 cleaning routine is done by our waiters
+3 - Freindly envornment
+- there is no place on earth and yautja friendlier than our very own Coffee Cafe!
+
+ ---------Reviews-------
+person 1 :-
+name : Darth Vader
+Role : Sith Lord
+review-text : Introducing the empire's all new official coffee from now on
+person 2:-
+sherwyn review
+person 2:-
+name : Predator
+Role : Yautja hunter
+review-text : click click click click
+person 3:-
+name : Thanos
+Role : Mad man
+review-text : Its taste is inevitable to resist!
